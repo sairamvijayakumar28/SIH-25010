@@ -41,28 +41,25 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
-
+![alt text](workflow.png)
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+Technology that i use to develop this  web application are,JavaScript for structure,React for framework,php and django for database.
+Features:
+1.Offline + SMS Support: For regions with poor internet connectivity
+2.Cloud & Databases: To store farmer data, soil info, and weather records
+3.AI & Data Science (AI&DS): To analyze past weather data, crop patterns, and soil reports for predicting future conditions and giving personalized advice.
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
-
+The project is realistic because AI&DS models can be trained using already available datasets like Soil Health Cards, IMD (Indian Meteorological Department) weather data, and government crop reports.
+1.Challenges: 
+Farmers may hesitate to trust an app, and internet is weak in many rural areas.
+2.Solutions
+Build awareness programs through NGOs and agri-officers to create trust.
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+1.Farmers earn more profit by reducing unnecessary costs.
+2.Balanced fertilizer/pesticide use protects soil and water.
+3.Helps achieve Digital India and smart agriculture goals.
+4farmers can sell at the right place and time.
 
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+https://www.oecd.org/en/topics/sub-issues/innovation-and-digital-in-agriculture.html
